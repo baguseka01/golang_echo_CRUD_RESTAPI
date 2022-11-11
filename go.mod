@@ -1,4 +1,4 @@
-module github.com/baguseka01/golang_echo_RESTAPI
+module github.com/baguseka01/Golang_Echo_CRUD_RESTAPI
 
 go 1.19
 
